@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Task Weather</string>
+
+
+    <string name="selectTown">Select Town:</string>
+    <string name="selectSeason">Select season:</string>
+    <string name="averageTmp">Average Temperature:</string>
+    <string name="typeOfTown">Type of town:</string>
+    <string name="settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="name">Name:</string>
+    <string name="type">Type:</string>
+
+    <string name="celsiusTmp">In \u00B0 C</string>
+    <string name="kelvinTmp">In K</string>
+    <string name="fahrenheitTmp">In \u00B0 F</string>
+
+
+</resources>
